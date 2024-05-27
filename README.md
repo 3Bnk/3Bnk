@@ -1,4 +1,7 @@
 ## Hi there 👋
+my name is Nadine
+
+
 
 <!--
 **3Bnk/3Bnk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
